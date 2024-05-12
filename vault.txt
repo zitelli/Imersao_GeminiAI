@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "key": "WhatsApp",
+      "description": "Senha do WhatsApp",
+      "value": "abcdef"
+    },
+    {
+      "key": "Windows",
+      "description": "Senha do Windows",
+      "value": "ghijkp"
+    },
+    {
+      "key": "Ubuntu",
+      "description": "Senha do Ubuntu",
+      "value": "papai_precisa"
+    },
+    {
+      "key": "Alura",
+      "description": "Senha da plataforma Alura",
+      "value": "mamae_mandou"
+    }
+  ]
+}
